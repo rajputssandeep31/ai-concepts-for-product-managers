@@ -2,7 +2,7 @@
 
 **A sequential guide from AI foundations to product decisions about data, tools, agents, quality and economics.**
 
-Working guide for Sandeep Singh Rajput. This first edition is an AI-assisted editorial draft awaiting his review. Examples are fictional and use no employer or customer information.
+A growing learning guide maintained by Sandeep Singh Rajput. This AI-assisted first edition was approved for public release on 6 October 2026. Examples are fictional and use no employer or customer information.
 
 ## Start here
 

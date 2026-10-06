@@ -20,6 +20,6 @@ Record an implementation example as tested only when it has actually been run. A
 
 ## Publication
 
-The initial repository is a private draft for Sandeep Singh Rajput's review. Making it public requires his explicit approval of the reviewed content. Public-facing revisions should also be reviewed before release. Use only the ChatGPT/Codex built-in browser for browser work; do not access Google Chrome.
+The first edition was approved for public release by Sandeep Singh Rajput on 6 October 2026. Public-facing revisions should also be reviewed before release.
 
-No redistribution license has been selected in this initial draft. Agree the license before presenting the repository as licensed educational material. Source links do not transfer ownership of third-party documentation.
+No redistribution license has been selected in this initial edition. Agree the license before presenting the repository as licensed educational material. Source links do not transfer ownership of third-party documentation.
